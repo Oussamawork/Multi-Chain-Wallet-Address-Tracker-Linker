@@ -1,0 +1,5 @@
+{
+  "name": "NexusTracker",
+  "description": "A multi-chain wallet forensic tool initially focused on Solana. It visualizes connections between wallets to identify common ownership or coordination using on-chain data and AI analysis.",
+  "requestFramePermissions": []
+}
